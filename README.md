@@ -28,6 +28,8 @@ This is the repo for engineers who want to understand what's behind popular agen
 
 ## ❓ Why you need to learn this?
 
+Agent fluency is the new data-structures interview. We teach it **from first principles** - you build the loop, the tool calls, the memory, and the evals yourself before we ever introduce a framework. No magic. No black boxes. Just the primitives, in the order they were invented.
+
 ▶️ [Fundamental skills and knowledge you must have in 2026 for SWE](https://www.youtube.com/clip/UgkxNl2grro6BiM_x9bGSH_xMOSl32fxvthr)
 
 > _How many of you actually can pull out a whiteboard and build me an agent? Can you show me the inferencing loop?_
@@ -40,18 +42,16 @@ This is the repo for engineers who want to understand what's behind popular agen
 >
 > — **Geoffrey Huntley**, creator of [Ralph Wiggum](https://ghuntley.com/ralph/)
 
-Agent fluency is the new data-structures interview. We teach it **from first principles** - you build the loop, the tool calls, the memory, and the evals yourself before we ever introduce a framework. No magic. No black boxes. Just the primitives, in the order they were invented.
-
-> 💡 None of this requires fancy frameworks. Just an LLM API, some tools, and a loop.
-> **Build one this weekend. You'll understand agents better than reading 100 blog posts.**
+💡 None of this requires fancy frameworks. Just an LLM API, some tools, and a loop.
+**Build one this weekend. You'll understand agents better than reading 100 blog posts.**
 
 No prior AI/ML experience required - just Python basics and **curiosity** about building LLM-powered agents.
 
 ## 🧭 Why this repo?
 
-- **We take production agents apart.** The [_Disassembling AI Agents_](https://agenticloopsai.substack.com) Substack series reverse-engineers Claude Code, GitHub Copilot, and OpenCode. You read how real agents work, then rebuild the pieces here.
 - **First principles, no black boxes.** You build the agent loop, the tool executor, the memory layer, the eval harness from scratch — _before_ we introduce a single framework. Learn what each abstraction is hiding before you let one hide it for you.
 - **Runnable in one command.** `uv run --directory <tutorial> python <script>.py`. No conda dance. No Jupyter kernel hunt.
+- **We take production agents apart.** The [_Disassembling AI Agents_](https://agenticloopsai.substack.com) Substack series reverse-engineers Claude Code, GitHub Copilot, and OpenCode. You read how real agents work, then rebuild the pieces here.
 
 ## ⚡ 60-second quickstart
 
