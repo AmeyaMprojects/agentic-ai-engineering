@@ -70,22 +70,6 @@ That's it. Every tutorial is self-contained and idempotent — you can jump in a
 
 ---
 
-## 📚 Companion reading
-
-The tutorials teach you to build. Our [Substack](https://agenticloopsai.substack.com) gives you the mental model first - a foundational primer on how agents actually work, followed by teardowns of real production agents you use every day. **Read the post. Open the tutorial. Rebuild the pattern.**
-
-[**How Agents Work: The Patterns Behind the Magic**](https://agenticloopsai.substack.com/p/how-agents-work-the-patterns-behind) - the core agentic loop from first principles. The four pattern levels (one-shot → single-tool → ReAct → planning), the role of the system prompt as behavioral design, and Ralph Mode as the outer loop. If you read one thing before opening the repo, read this. Pairs with → `01-foundations`.
-
-
-## 🗂️ Tutorials Structure
-
-The tutorials are organized into **modules** (`01-foundations`, `02-effective-agents`) that progress from basics to advanced concepts. Each module contains numbered **tutorials** that build on previous lessons. Inside each tutorial folder, you'll find:
-
-- **Python scripts** ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white) - Self-contained, runnable examples demonstrating key concepts
-- **README.md** - Detailed explanations, code walkthroughs, and learning objectives
-
-You can explore individual scripts independently or follow the complete learning path from start to finish. Each module ends with a ![🏆 capstone](https://img.shields.io/badge/🏆_capstone-blue) project that combines all concepts from the module into a single, production-style agent.
-
 ### 🎓 [01 - Foundations](01-foundations/README.md) ![new](https://img.shields.io/badge/new-brightgreen)
 
 Your first steps — from a single API call to a fully autonomous agent loop. Build everything from scratch to understand what's really happening under the hood.
@@ -159,6 +143,21 @@ The gap between "works on my laptop" and "runs reliably at scale." Principles, d
 5. **[Security & Guardrails](06-production/05-security-guardrails/)** — Auth, sandboxing, injection defense
 6. **[Error Handling & Resilience](06-production/06-error-handling-resilience/)** — Retries, fallbacks, graceful degradation
 
+
+## 🗂️ Tutorials Structure
+
+The tutorials are organized into **modules** (`01-foundations`, `02-effective-agents`) that progress from basics to advanced concepts. Each module contains numbered **tutorials** that build on previous lessons. Inside each tutorial folder, you'll find:
+
+- **Python scripts** ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white) - Self-contained, runnable examples demonstrating key concepts
+- **README.md** - Detailed explanations, code walkthroughs, and learning objectives
+
+You can explore individual scripts independently or follow the complete learning path from start to finish. Each module ends with a ![🏆 capstone](https://img.shields.io/badge/🏆_capstone-blue) project that combines all concepts from the module into a single, production-style agent.
+
+## 📚 Companion reading
+
+The tutorials teach you to build. Our [Substack](https://agenticloopsai.substack.com) gives you the mental model first - a foundational primer on how agents actually work, followed by teardowns of real production agents you use every day. **Read the post. Open the tutorial. Rebuild the pattern.**
+
+[**How Agents Work: The Patterns Behind the Magic**](https://agenticloopsai.substack.com/p/how-agents-work-the-patterns-behind) - the core agentic loop from first principles. The four pattern levels (one-shot → single-tool → ReAct → planning), the role of the system prompt as behavioral design, and Ralph Mode as the outer loop. If you read one thing before opening the repo, read this. Pairs with → `01-foundations`.
 
 ## 💜 Support Us
 
