@@ -89,7 +89,7 @@ TOOLS = [
 ### 2. The Tool Call Loop
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/tool-use.gif" alt="Tool use: the model receives a task, calls a tool with arguments, reads the result returned by the tool, and answers grounded in real data" width="680">
+  <img src="https://graphics.agenticloops.ai/animations/foundations/tool-use.gif" alt="Tool use: the model receives a task, calls a tool with arguments, reads the result returned by the tool, and answers grounded in real data" width="680">
 </p>
 
 The LLM doesn't execute tools directly - it requests tool calls that you execute:

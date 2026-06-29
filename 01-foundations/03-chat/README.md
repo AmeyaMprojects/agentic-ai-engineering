@@ -41,7 +41,7 @@ Or use the [Code Runner](https://marketplace.visualstudio.com/items?itemName=for
 ### 1. Chat Loop Pattern
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/chat.gif" alt="Interactive chat loop: each message is appended to the conversation history, the full history is sent to the LLM every turn, and the reply loops back as history keeps growing" width="520">
+  <img src="https://graphics.agenticloops.ai/animations/foundations/chat.gif" alt="Interactive chat loop: each message is appended to the conversation history, the full history is sent to the LLM every turn, and the reply loops back as history keeps growing" width="520">
 </p>
 
 ### 2. Message History Management

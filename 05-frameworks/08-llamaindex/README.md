@@ -10,7 +10,7 @@ status: "coming-soon"
 Data-centric agent framework. Strong RAG primitives, knowledge graph integration, and document-aware agents.
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/llamaindex.gif" alt="A LlamaIndex data-centric agent retrieving from documents and knowledge graphs through a RAG pipeline before reasoning over the results." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/frameworks/llamaindex.gif" alt="A LlamaIndex data-centric agent retrieving from documents and knowledge graphs through a RAG pipeline before reasoning over the results." width="720">
 </p>
 
 ## 🎯 What You'll Learn

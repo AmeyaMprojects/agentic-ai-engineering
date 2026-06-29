@@ -41,7 +41,7 @@ Or use the [Code Runner](https://marketplace.visualstudio.com/items?itemName=for
 ### 1. Simple LLM Call Flow
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/simple-llm-call.gif" alt="A simple LLM call: you send a prompt to the model, and tokens stream back as the response" width="640">
+  <img src="https://graphics.agenticloops.ai/animations/foundations/simple-llm-call.gif" alt="A simple LLM call: you send a prompt to the model, and tokens stream back as the response" width="640">
 </p>
 
 A prompt goes in, the model generates, and tokens stream back — that round trip is one LLM call.

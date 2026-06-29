@@ -48,7 +48,7 @@ Or use the [Code Runner](https://marketplace.visualstudio.com/items?itemName=for
 Agents need different kinds of memory for different purposes — just like humans distinguish between what they're currently thinking about, what happened recently, and what they know as facts.
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/memory.gif" alt="Three-tier memory architecture where the agent loop stores and retrieves across working memory, episodic memory backed by a JSON file with keyword search, and semantic memory backed by ChromaDB with vector search." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/advanced-techniques/memory.gif" alt="Three-tier memory architecture where the agent loop stores and retrieves across working memory, episodic memory backed by a JSON file with keyword search, and semantic memory backed by ChromaDB with vector search." width="720">
 </p>
 
 | Tier | Purpose | Storage | Lifespan | Search |

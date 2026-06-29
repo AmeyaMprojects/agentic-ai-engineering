@@ -12,7 +12,7 @@ Practical engineering problems you'll hit the moment agents leave the prototype 
 ## 🗺️ Progression Path
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/advanced-techniques-overview.gif" alt="Progression path through the advanced techniques module, building from structured output to streaming, context engineering, cost optimization, memory, RAG, multimodal, and guardrails." width="820">
+  <img src="https://graphics.agenticloops.ai/animations/advanced-techniques/advanced-techniques-overview.gif" alt="Progression path through the advanced techniques module, building from structured output to streaming, context engineering, cost optimization, memory, RAG, multimodal, and guardrails." width="820">
 </p>
 
 | Step | Tutorial | What It Adds |

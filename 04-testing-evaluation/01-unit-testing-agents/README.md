@@ -9,7 +9,7 @@ icon: "check-square"
 Learn how to test AI agents without making API calls. By mocking LLM responses and testing everything around the model — tool execution, decision routing, message construction, error handling — you can build fast, deterministic tests that catch real bugs.
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/unit-testing-agents.gif" alt="A mocked LLM response flows through the agent harness so tool execution, routing, and behavioral contracts can be tested deterministically without live API calls." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/testing-evaluation/unit-testing-agents.gif" alt="A mocked LLM response flows through the agent harness so tool execution, routing, and behavioral contracts can be tested deterministically without live API calls." width="720">
 </p>
 
 ## 🎯 What You'll Learn

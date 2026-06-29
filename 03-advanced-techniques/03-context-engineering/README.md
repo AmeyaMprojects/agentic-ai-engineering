@@ -118,7 +118,7 @@ The summary preserves key facts and decisions. Recent messages stay verbatim so 
 
 <!-- prettier-ignore -->
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/context-engineering.gif" alt="Compression flow where each user message is appended to history, and if history exceeds the budget the older messages are split off and summarized before sending to the LLM and showing the updated budget." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/advanced-techniques/context-engineering.gif" alt="Compression flow where each user message is appended to history, and if history exceeds the budget the older messages are split off and summarized before sending to the LLM and showing the updated budget." width="720">
 </p>
 
 ### 5. Why Summarize Instead of Drop?

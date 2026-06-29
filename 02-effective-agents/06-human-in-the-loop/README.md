@@ -37,7 +37,7 @@ Or use the [Code Runner](https://marketplace.visualstudio.com/items?itemName=for
 ## 🔑 Key Concepts
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/human-in-the-loop.gif" alt="An LLM drafts an email that pauses at human checkpoints where a person can approve, edit, or reject with feedback, looping back through revision until the email is approved." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/effective-agents/human-in-the-loop.gif" alt="An LLM drafts an email that pauses at human checkpoints where a person can approve, edit, or reject with feedback, looping back through revision until the email is approved." width="720">
 </p>
 
 ### Checkpoint Placement

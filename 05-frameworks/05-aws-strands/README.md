@@ -10,7 +10,7 @@ status: "coming-soon"
 AWS's agent SDK. Model-driven development with native AWS service integration and deployment tooling.
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/aws-strands.gif" alt="An AWS Strands model-driven agent connected to native AWS services and deployment infrastructure tooling." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/frameworks/aws-strands.gif" alt="An AWS Strands model-driven agent connected to native AWS services and deployment infrastructure tooling." width="720">
 </p>
 
 ## 🎯 What You'll Learn

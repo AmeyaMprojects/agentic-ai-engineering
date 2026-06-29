@@ -10,7 +10,7 @@ Architectural patterns that separate toy demos from real agents. Based on Anthro
 ## 🗺️ Progression Path
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/effective-agents-overview.gif" alt="A progression path showing each effective-agent pattern building on the last — prompt chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer, and human-in-the-loop — combining into the final content writer agent." width="820">
+  <img src="https://graphics.agenticloops.ai/animations/effective-agents/effective-agents-overview.gif" alt="A progression path showing each effective-agent pattern building on the last — prompt chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer, and human-in-the-loop — combining into the final content writer agent." width="820">
 </p>
 
 | Step | Tutorial | What It Adds |

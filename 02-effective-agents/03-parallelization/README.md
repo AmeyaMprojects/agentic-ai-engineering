@@ -42,7 +42,7 @@ Or use the [Code Runner](https://marketplace.visualstudio.com/items?itemName=for
 A blog post (selected from `input/` or pasted custom) is sent to 3 independent writers simultaneously:
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/parallelization.gif" alt="A single blog post fans out concurrently to LinkedIn, Twitter, and Newsletter writers, whose results fan back in to an aggregator that combines them into one promo pack." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/effective-agents/parallelization.gif" alt="A single blog post fans out concurrently to LinkedIn, Twitter, and Newsletter writers, whose results fan back in to an aggregator that combines them into one promo pack." width="720">
 </p>
 
 Each writer has a focused system prompt and runs as a separate thread. Results are collected as they complete and aggregated into a "Promo Pack" saved to `output/`.

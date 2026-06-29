@@ -39,7 +39,7 @@ Or use the [Code Runner](https://marketplace.visualstudio.com/items?itemName=for
 ### Sequential Pipeline
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/prompt-chaining.gif" alt="A topic flows through a sequential pipeline of focused LLM steps — Outliner, Writer with web search, then Editor — each output feeding the next to produce a final blog post." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/effective-agents/prompt-chaining.gif" alt="A topic flows through a sequential pipeline of focused LLM steps — Outliner, Writer with web search, then Editor — each output feeding the next to produce a final blog post." width="720">
 </p>
 
 Each step has a focused system prompt and a single responsibility. The output of one step becomes the input of the next.

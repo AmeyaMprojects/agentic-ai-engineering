@@ -37,7 +37,7 @@ Or use the [Code Runner](https://marketplace.visualstudio.com/items?itemName=for
 ## 🔑 Key Concepts
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/evaluator-optimizer.gif" alt="A draft flows through research, writing, and evaluation, looping back to a refiner while the average score stays below threshold and exiting to a final post once it passes." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/effective-agents/evaluator-optimizer.gif" alt="A draft flows through research, writing, and evaluation, looping back to a refiner while the average score stays below threshold and exiting to a final post once it passes." width="720">
 </p>
 
 ### Pipeline: Research → Write → Evaluate → Refine

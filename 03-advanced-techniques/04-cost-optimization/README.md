@@ -114,7 +114,7 @@ Not every task needs your most capable (and expensive) model. A routing layer cl
 
 <!-- prettier-ignore -->
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/cost-optimization.gif" alt="Model routing flow where a cheap Haiku classifier labels each task as easy or hard and routes it to Haiku or Sonnet accordingly, then tracks the resulting cost." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/advanced-techniques/cost-optimization.gif" alt="Model routing flow where a cheap Haiku classifier labels each task as easy or hard and routes it to Haiku or Sonnet accordingly, then tracks the resulting cost." width="720">
 </p>
 
 The classifier itself runs on Haiku (cheap), adding minimal overhead. Even with the classification cost, routing simple tasks to Haiku saves significantly vs sending everything to Sonnet.

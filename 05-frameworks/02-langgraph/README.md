@@ -10,7 +10,7 @@ status: "coming-soon"
 Graph-based agent orchestration from LangChain. Define agents as nodes and edges with built-in state management and persistence.
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/langgraph.gif" alt="A LangGraph agent modeled as a directed graph of nodes connected by conditional edges, routing shared state through checkpointed steps." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/frameworks/langgraph.gif" alt="A LangGraph agent modeled as a directed graph of nodes connected by conditional edges, routing shared state through checkpointed steps." width="720">
 </p>
 
 ## 🎯 What You'll Learn

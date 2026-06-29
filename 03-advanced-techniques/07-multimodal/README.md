@@ -115,7 +115,7 @@ for part in response.candidates[0].content.parts:
 ### 4. Audio Pipeline
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/multimodal.gif" alt="Audio round-trip pipeline where text input is converted to an audio file via text-to-speech, transcribed back to text via speech-to-text, then compared against the original for verification." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/advanced-techniques/multimodal.gif" alt="Audio round-trip pipeline where text input is converted to an audio file via text-to-speech, transcribed back to text via speech-to-text, then compared against the original for verification." width="720">
 </p>
 
 OpenAI provides separate endpoints for each direction:

@@ -46,7 +46,7 @@ Or use the [Code Runner](https://marketplace.visualstudio.com/items?itemName=for
 ### 1. Prompt Engineering Layers
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/prompt-engineering.gif" alt="Prompt engineering: a system prompt, few-shot examples, and an output schema all feed into the LLM to produce a structured response" width="640">
+  <img src="https://graphics.agenticloops.ai/animations/foundations/prompt-engineering.gif" alt="Prompt engineering: a system prompt, few-shot examples, and an output schema all feed into the LLM to produce a structured response" width="640">
 </p>
 
 Each layer adds more control over the LLM's response. Used together, they let you build agents that produce reliable, parseable output.

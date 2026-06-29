@@ -49,7 +49,7 @@ uv run --directory 02-effective-agents/07-content-writer python 01_content_write
 ```
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/content-writer.gif" alt="A full content pipeline composes every pattern — classify, plan, parallel research, write, evaluate-refine loop, three human checkpoints, social media fan-out, and SEO title voting — into one end-to-end agent producing a complete package." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/effective-agents/content-writer.gif" alt="A full content pipeline composes every pattern — classify, plan, parallel research, write, evaluate-refine loop, three human checkpoints, social media fan-out, and SEO title voting — into one end-to-end agent producing a complete package." width="720">
 </p>
 
 ## 🔑 Key Concepts

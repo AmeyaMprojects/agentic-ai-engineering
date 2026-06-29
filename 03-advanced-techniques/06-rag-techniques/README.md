@@ -65,7 +65,7 @@ Not every application needs RAG. The decision depends on your knowledge base siz
 
 <!-- prettier-ignore -->
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/rag-techniques.gif" alt="RAG pipeline where documents are chunked, embedded, and indexed once into Chroma and BM25, then each query is searched via vector and keyword paths, fused with RRF, reranked, and passed to Claude to generate an answer with citations." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/advanced-techniques/rag-techniques.gif" alt="RAG pipeline where documents are chunked, embedded, and indexed once into Chroma and BM25, then each query is searched via vector and keyword paths, fused with RRF, reranked, and passed to Claude to generate an answer with citations." width="720">
 </p>
 
 ### 3. Chunking

@@ -43,7 +43,7 @@ Or use the [Code Runner](https://marketplace.visualstudio.com/items?itemName=for
 The core pattern is simple: call the LLM, execute any requested tools, feed results back, repeat until done.
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/agent-loop.gif" alt="The agent loop: the agent evaluates whether a tool is needed, runs tools and feeds results back in a loop, and exits when no tool is required" width="720">
+  <img src="https://graphics.agenticloops.ai/animations/foundations/agent-loop.gif" alt="The agent loop: the agent evaluates whether a tool is needed, runs tools and feeds results back in a loop, and exits when no tool is required" width="720">
 </p>
 
 ```python

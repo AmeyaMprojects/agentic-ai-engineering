@@ -61,7 +61,7 @@ The key insight: a tutorial needs prerequisites before steps, a news article nee
 Routing builds on prompt chaining (each route *is* a chain) but adds a classification step that determines which chain to execute:
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/routing.gif" alt="A classifier inspects an incoming topic and dispatches it to one of several specialized chains — tutorial, news, or concept — which each produce structurally distinct output." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/effective-agents/routing.gif" alt="A classifier inspects an incoming topic and dispatches it to one of several specialized chains — tutorial, news, or concept — which each produce structurally distinct output." width="720">
 </p>
 
 Use routing when inputs require **structurally different** processing, not just different tones or styles.

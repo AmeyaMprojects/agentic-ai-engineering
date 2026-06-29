@@ -10,7 +10,7 @@ status: "coming-soon"
 Principles for building production-grade agents. Inspired by the 12-factor app methodology, adapted for the unique challenges of LLM-powered systems.
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/twelve-factor-agents.gif" alt="The twelve factors of production-grade agent design assembling into a coherent architecture" width="720">
+  <img src="https://graphics.agenticloops.ai/animations/production/twelve-factor-agents.gif" alt="The twelve factors of production-grade agent design assembling into a coherent architecture" width="720">
 </p>
 
 ## 🎯 What You'll Learn

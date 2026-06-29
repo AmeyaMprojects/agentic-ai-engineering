@@ -10,7 +10,7 @@ status: "coming-soon"
 Microsoft's multi-agent conversation framework. Agents communicate through structured conversations with configurable interaction patterns.
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/autogen.gif" alt="An AutoGen multi-agent setup where agents exchange messages in a structured conversation with configurable interaction and termination patterns." width="720">
+  <img src="https://graphics.agenticloops.ai/animations/frameworks/autogen.gif" alt="An AutoGen multi-agent setup where agents exchange messages in a structured conversation with configurable interaction and termination patterns." width="720">
 </p>
 
 ## 🎯 What You'll Learn

@@ -68,7 +68,7 @@ The loop continues until the LLM responds with just text (no tool calls), indica
 ### RAG Pipeline
 
 <p align="center">
-  <img src="https://graphics.agenticloops.ai/animations/codebase-navigator.gif" alt="RAG pipeline: the repository is indexed into a vector store, a question searches the vectors by similarity, and the most relevant code is retrieved so the model can answer grounded in real code" width="720">
+  <img src="https://graphics.agenticloops.ai/animations/foundations/codebase-navigator.gif" alt="RAG pipeline: the repository is indexed into a vector store, a question searches the vectors by similarity, and the most relevant code is retrieved so the model can answer grounded in real code" width="720">
 </p>
 
 **Chunking strategy**: Python files split on top-level `class`/`def` definitions. Other files split every 50 lines with 10-line overlap. Simple heuristics that work well for educational purposes.
